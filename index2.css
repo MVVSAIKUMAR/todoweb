@@ -1,0 +1,99 @@
+
+h1{
+    display: inline;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+}
+.lists{
+    display: inline;
+    font-size: xx-large;
+    position: absolute;
+    top: 33%;
+    left: 36%;
+}
+i{
+    display: inline;
+    color: red;
+    position: absolute;
+    top: 35%;
+    left: 53.5%;
+}
+button{
+    color: red;
+    position: absolute;
+    top: 35%;
+    left: 50%;
+}
+.plus{
+    display: inline;
+    font-size: large;
+    position: absolute;
+    top: 35%;
+    left: 55%;
+}
+.paris{
+    border: 2px solid red;
+    border-radius: 12px;
+    display: inline;
+    padding: 16px 10px 100px 10px;
+    text-align: center;
+    position: absolute;
+    top: 40%;
+    left: 30%;
+}
+.paris1{
+    color: red;
+}
+.todo{
+    border: 2px solid red;
+    border-radius: 12px;
+    display: inline;
+    padding: 16px 10px 100px 10px;
+    text-align: center;
+    position: absolute;
+    top: 40%;
+    left: 40%;
+}
+.todo-1{
+    color: red;
+}
+.todo2{
+    border: 2px solid red;
+    border-radius: 12px;
+    display: inline;
+    padding: 16px 10px 100px 10px;
+    text-align: center;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+}
+.todo-2{
+    color: red;
+}
+.parent{
+    filter: blur(5px);
+    z-index: -1;
+    position: relative;
+    top: 250px;
+}
+.box{
+    color: red;
+    border: 3px solid red;
+    border-radius: 12px;
+    padding: 50px;
+    text-align: center;
+    position: absolute;
+    top: 40%;
+    left: 40%;
+}
+.box1{
+    border: 3px solid red;
+    border-radius: 6px;
+}
+button{
+    display: inline-block;
+    position: absolute;
+    top: 70%;
+    left: 42.5%;
+}
